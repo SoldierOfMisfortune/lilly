@@ -13,3 +13,15 @@ p.date {
 	text-align: center;
 }
 
+body {
+	background-color: pink;
+}
+
+img.lilly-pic {
+	display: block;
+	width: 30%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+}
